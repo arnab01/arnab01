@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arnab</h1>
+## Hi :wave:, I'm Arnab, Let's code today? :computer::smiley:
 
-<center>
 [![Linkedin Badge](https://img.shields.io/badge/-ArnabDatta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnabdatta01/)](https://www.linkedin.com/in/arnabdatta01/) [![Gmail Badge](https://img.shields.io/badge/-arnab.datta123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnab.datta123@gmail.com)](mailto:arnab.datta123@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-ArnabDatta-254c77?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/arnab_001)](https://t.me/arnab_001) 
-</center>
+
 <h4 align="center">Let's code something today?</h4>
 
 - 💬 Ask me about **iOS Development** , **Machine Learning** and **Competitive Coding**
