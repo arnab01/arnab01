@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-nivethsaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnabdatta01/)](https://www.linkedin.com/in/arnabdatta01/) [![Gmail Badge](https://img.shields.io/badge/-arnab.datta123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnab.datta123@gmail.com)](mailto:arnab.datta123@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Arnab Datta-254c77?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/arnab_001)](https://t.me/arnab_001) 
+
 <h4 align="center">Let's code something today?</h4>
 
 - 💬 Ask me about **iOS Development** , **Machine Learning** and **Competitive Coding**
  
-- 📫 Reach me : **arnab.datta123@gmail.com**
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/arnabdatta01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arnabdatta01/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_arnab_01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_arnab_01/" height="30" width="40" /></a>
-<a href="https://t.me/arnab_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/arnab_001" height="30" width="40" /></a>
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnab01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
