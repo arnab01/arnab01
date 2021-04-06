@@ -2,7 +2,7 @@
 
 <h4 align="center">Let's code something today?</h4>
 
-- 💬 Ask me about **iOS Development** , **Machine Learning** and **Competitive coding**
+- 💬 Ask me about **iOS Development** , **Machine Learning** and **Competitive Coding**
  
 - 📫 Reach me : **arnab.datta123@gmail.com**
 
