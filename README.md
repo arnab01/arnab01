@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 
-<h4 align="center">Code?</h4>
+<h4 align="center">Let's code something today?</h4>
 
 - 💬 Ask me about **iOS Development** , **Machine Learning** and **Competitive coding**
  
