@@ -6,13 +6,3 @@
 💬 **iOS Development** , **Competitive Coding** and **Machine Learning** 
  
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arnab01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Arnab's github stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab01&theme=material-palenight" alt="arnab01" />
-</p>
-
-<br>
-
